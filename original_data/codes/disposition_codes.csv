@@ -1,9 +1,0 @@
-Disposition,Type,Code
-"no Injury","NOT ADMITTED TO HOSPITAL",0
-"treated & Released, Or Examined & Released Without Trtmnt","NOT ADMITTED TO HOSPITAL",1
-"left Without Being Seen","NOT ADMITTED TO HOSPITAL",6
-"treated & Transferred","ADMITTED TO HOSPITAL",2
-"treated & Admitted For Hospitalization, Hospitalized","ADMITTED TO HOSPITAL",4
-"held For Observation","ADMITTED TO HOSPITAL",5
-"FATALITIES, INCLUDING DOA, DIED IN ER, EXPIRED IN HOSP.",,8
-"UNKNOWN, NOT STATED, ETC.",,9
