@@ -1,1 +1,2 @@
 pypdfium
+import-ipynb==0.2
