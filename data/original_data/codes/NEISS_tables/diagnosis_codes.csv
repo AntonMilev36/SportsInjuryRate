@@ -1,32 +1,3 @@
-Diagnosis Name,Type,Code
-Ingested Object,ASPIRATION/INGESTION,41
-Aspirated Object,ASPIRATION/INGESTION,42
-Burns Elec,BURNS,46
-Burns Not Spec,BURNS,47
-Burns Scald,BURNS,48
-Burns Chemical,BURNS,49
-Burns Thermal,BURNS,51
-Burns Radiation,BURNS,73
-AMPUTATION,Injury/Condition,50
-ANOXIA,Injury/Condition,65
-AVULSION,Injury/Condition,72
-CONCUSSION,Injury/Condition,52
-CONTUSION OR ABRASION,Injury/Condition,53
-CRUSHING,Injury/Condition,54
-DENTAL INJURY,Injury/Condition,60
-DERMAT OR CONJ,Injury/Condition,74
-DISLOCATION,Injury/Condition,55
-ELECTRIC SHOCK,Injury/Condition,67
-FOREIGN BODY,Injury/Condition,56
-FRACTURE,Injury/Condition,57
-HEMATOMA,Injury/Condition,58
-HEMORRHAGE,Injury/Condition,66
-INTER ORGAN INJURY,Injury/Condition,62
-LACERATION,Injury/Condition,59
-NERVE DAMAGE,Injury/Condition,61
-POISONING,Injury/Condition,68
-PUNCTURE,Injury/Condition,63
-STRAIN OR SPRAIN,Injury/Condition,64
-SUBMERSION,Injury/Condition,69
-OTHER,Injury/Condition,71
-NOT STATED OR UNKNOWN,Injury/Condition,70
+version https://git-lfs.github.com/spec/v1
+oid sha256:f48065b0a5d08471de9a489dbc6ed4e5e76a84c3a194d72bef79d9097ddd9b93
+size 1018

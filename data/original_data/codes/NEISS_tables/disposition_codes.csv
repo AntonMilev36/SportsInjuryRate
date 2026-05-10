@@ -1,9 +1,3 @@
-Disposition,Type,Code
-"no Injury","NOT ADMITTED TO HOSPITAL",0
-"treated & Released, Or Examined & Released Without Trtmnt","NOT ADMITTED TO HOSPITAL",1
-"left Without Being Seen","NOT ADMITTED TO HOSPITAL",6
-"treated & Transferred","ADMITTED TO HOSPITAL",2
-"treated & Admitted For Hospitalization, Hospitalized","ADMITTED TO HOSPITAL",4
-"held For Observation","ADMITTED TO HOSPITAL",5
-"FATALITIES, INCLUDING DOA, DIED IN ER, EXPIRED IN HOSP.",,8
-"UNKNOWN, NOT STATED, ETC.",,9
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc4854141b78bc2819a5033782653564c8794b387c7094b80dd50b20d5b3f8bb
+size 483

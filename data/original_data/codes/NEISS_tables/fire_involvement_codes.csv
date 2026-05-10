@@ -1,5 +1,3 @@
-Fire involvement type,Code
-"Fire Dept. attended",1
-"Fire Dept. did not attend",2
-"Unknown if Fire Dept. attended",3
-"No fire or smoke involvement or Blank",0
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f5deb844d9844d92097319d3d033b0415f4b17c15d91c2ded6ea61308a096a
+size 161

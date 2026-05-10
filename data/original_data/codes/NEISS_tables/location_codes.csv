@@ -1,10 +1,3 @@
-Location,Code
-Unknown or not stated,0
-"Home (Includes private residences, yards, driveways)",1
-Farm/Ranch,2
-Street or highway,4
-"Other public property (Stores, hotels, restaurants, sidewalks, common areas of apartments)",5
-Manufactured (Mobile) home,6
-"Industrial place (Construction sites, factories, oil fields)",7
-"School (Nursery through college, and day care facilities)",8
-"Place of recreation or sports (Amusement parks, gyms, parks, beaches, resorts)",9
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d7ef9b6d6a94f63752f52852182f593d79a1fe81c8fd16c648ed352e7f45c9a
+size 472
